@@ -1,0 +1,12 @@
+.project{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.section-project{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}

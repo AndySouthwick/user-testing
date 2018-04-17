@@ -1,0 +1,21 @@
+.thumbsup{
+content: "\U+1F44D";
+}
+path.countries {
+    stroke-width: 1;
+    stroke: #75739F;
+    fill: #5EAFC6;
+}
+.feature-form{
+    text-align: center;
+    width: 400px;
+}
+.section-feature{
+    display: flex;
+    justify-content: center;
+}
+.feature-column{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
